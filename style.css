@@ -1,0 +1,68 @@
+body{
+    background-color: #81945F;
+    margin:0 ;
+    padding: 0;
+    font-family:'IslandMoments-Regular';
+    font-style: italic;
+}
+.container{
+    align-items: center;
+    text-align: center;
+}
+
+header .imgLogo{
+    width: 350px;
+    height: 350px;
+    margin-top: 20px;
+    margin-left: 2px;
+    padding: 10px;
+}
+
+header .titulo{
+    font-size: 60px;
+}
+
+header .imgLogo2{
+    width: 65px;
+    height: 65px;
+    margin-bottom: 30px;
+}
+
+header p{
+    font-size: 36px;
+    text-align:justify;
+    font-weight: bold;
+    padding: 20px;
+}
+
+header .img01{
+    width: 424px;
+    height: 282px;
+}
+
+header .img02{
+    width: 424px;
+    height: 282px;
+}
+header .img03{
+    width: 424px;
+    height: 500PX;
+
+}
+header .img04{
+    width: 424pxpx;
+    height: 282px;
+
+}
+
+header .video{
+    width: 450px;
+    height: 1920px;
+    margin-top: -600px;
+
+}
+
+header .p02{
+    margin-top: -550px;
+}
+
